@@ -3,5 +3,5 @@
 A growing collection of small, production-style Rust projects with tests, CI, and write-ups.
 
 ## Challenges
-- [ccwc — Build Your Own `wc`](./ccwc)  
-  Steps: `-c`, `-l`, `-w`, `-m`, default `l w c`, stdin
+- [rust-shell — Build Your Own Shell](./rust-shell)  
+  A simple shell implementation with basic commands like `echo`, `ls`, and `exit`
